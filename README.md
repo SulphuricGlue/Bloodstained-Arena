@@ -5,7 +5,7 @@ The bloodthirsty Titan known to mortals as Cavien can offer great power to those
 
 Two aspirants battle against each other to win Cavien's favour, first acquiring means to attack with in the Shop phase with coins granted to them every round, before battling each other in turn-based combat.
 
-Most basic functions of the game work, but the process of fully completing a round to return to the shop phase is incomplete.
+Most basic functions of the game work, but the process of fully completing a round to return to the shop phase is incomplete. The game should be run directly from the file, not in the Python shell.
 
 Known Bugs:
 * Rounds currently never end
