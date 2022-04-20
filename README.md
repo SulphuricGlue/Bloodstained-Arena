@@ -1,5 +1,6 @@
 # Bloodstained-Arena
 A text-based card game made in Python, loosely modelled after the game Super Auto Pets.
+
 The bloodthirsty Titan known to mortals as Cavien can offer great power to those who prove themselves in his arena. Though he calls for blood, none of the aspirants can truly die, as the Titan magically heals all their wounds in the last moment before death takes them, ready to try again, though the process is not without immense agony.
 
 Two aspirants battle against each other to win Cavien's favour, first acquiring means to attack with in the Shop phase with coins granted to them every round, before battling each other in turn-based combat.
